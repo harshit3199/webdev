@@ -1,0 +1,61 @@
+.background_color{
+background-image: linear-gradient(rgb(237, 231, 152), rgb(94, 171, 204));
+background-repeat: no-repeat;
+ }
+}
+.heading{
+  background-color: rgb(201, 190, 62);
+}
+a:link {
+  color: DarkBlue;
+}
+ a:visited {
+  color: red;
+}
+.dropdown{
+  display: inline;
+  color: rgb(37, 16, 107);
+  text-align: justify;
+  font-size: 25px;
+  font-weight: 500;
+}
+.content{
+  color: rgb(101, 70, 148);
+  font-stretch: expanded;
+  text-align: justify;
+  font-size: 20px;
+
+}
+.display:hover .content{
+  display: flex;
+}
+.setup{
+  background-color:
+  padding: 2%;
+}
+.styling{
+  text-align: centet;
+  font-size: 30px;
+  font-weight: 400;
+  font-stretch: expanded;
+  padding: 1.75%;
+  text-decoration: none;
+  font-style: normal;
+}
+footer{
+  padding-top: 19.35%;
+}
+table{
+  padding-left: 30%;
+  border-width: medium;
+  border-color: red;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: oblique;
+}
+#setup{
+  padding: 10% 30% 1% 5%;
+
+}
+th{
+  padding-right: 10em

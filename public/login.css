@@ -1,0 +1,17 @@
+.background_color{
+background-image: linear-gradient(rgb(237, 231, 152), rgb(94, 171, 204));
+background-repeat: no-repeat;
+ }
+.styling{
+  padding: 15% 30% 25% 40%;
+  align-items: center;
+}
+.text_area{
+
+}
+h1{
+  font-size: 40px;
+}
+h6{
+  font-size: 15px;
+}
